@@ -1,10 +1,2 @@
 #!/bin/bash
-mkdir welcome
-
-cd welcom
-
-mkdir to
-
-cd to
-
-mkdir holberton
+mkdir -p welcome/to/holbeton
